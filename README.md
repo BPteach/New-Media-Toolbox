@@ -2,7 +2,6 @@
 
 > 本文档记录新媒体内容写作、营销、短视频、运营等必备工具，文档开源，欢迎更新提交。
 
-
 ## 图标资源库
 
 *   [iconfont](http://www.iconfont.cn/)
@@ -36,10 +35,48 @@
 *   [Free Music Archive](http://freemusicarchive.org/)
 *   [Audiosocket](https://www.audiosocket.com/)
 
-
 ## 配色工具库
 
 *   [Kuler](https://color.adobe.com/create/color-wheel/)
 *   [ColourLover](http://www.colourlovers.com/)
 *   [配色表](http://tool.c7sky.com/webcolor/#character_7)
 *   [千图配色](http://www.58pic.com/peise/)
+
+## 运营工具库
+### 数据指南
+
+- [新榜](http://newrank.cn/)
+- [清博指数](http://www.gsdata.cn/)
+
+###  HTML5
+
+- [MAKA](http://www.maka.im/home/index.html)
+- [ih5](https://www.ih5.cn)
+
+### 表单工具
+
+- [麦客](http://www.mikecrm.com/login.php?d=formManager.php)
+- [金数据](http://jinshuju.net)
+
+### 运营辅助
+
+- [新媒体管家](http://xmt.cn/)
+- [西瓜公众号助手](http://www.xiguaji.com/)
+- [微榜](http://top.aiweibang.com/)
+
+### 活动工具
+
+- [活动行](http://www.huodongxing.com/)
+
+### 电商工具
+
+- [有赞](https://www.youzan.com/)
+
+### 二维码工具
+
+- [草料二维码生成器](http://cli.im/)
+
+### 短网址工具
+
+- [新浪微博短网址生成器](http://www.waqiang.com/index.php/url)
+
