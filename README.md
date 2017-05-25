@@ -43,6 +43,7 @@
 *   [千图配色](http://www.58pic.com/peise/)
 
 ## 运营工具库
+
 ### 数据指南
 
 - [新榜](http://newrank.cn/)
@@ -78,5 +79,11 @@
 
 ### 短网址工具
 
+- [六度短网址](http://6du.in/)
 - [新浪微博短网址生成器](http://www.waqiang.com/index.php/url)
+
+
+### 图床工具
+
+- [极简图床](http://jiantuku.com/#/)
 
