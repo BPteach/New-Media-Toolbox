@@ -1,6 +1,6 @@
 # 新媒体工具箱
 
-> 本文档记录新媒体内容写作、营销、短视频、运营等必备工具，本文档开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交 :)
+> 本文档记录新媒体内容写作、营销、短视频、运营等必备工具，本文档开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交推荐工具。
 
 ## 图标资源库
 
