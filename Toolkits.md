@@ -40,6 +40,12 @@
 3. [i排版](http://ipaiban.com/)：同上，但是页面比较乱。
 4. [135编辑器](https://www.135editor.com/)：同上，但是页面比较乱。
 
+## 视频工具
+
+1. [Spark](https://spark.adobe.com/)：Adobe出品的在线视频制作工具，需要翻墙。
+2. [VUE](http://vue.video/)：快速制作电影级的短视频。
+3. [小影](https://www.xiaoying.tv/)：新媒体短视频创作工具。
+
 ### 配色工具
 
 1. [Kuler](https://color.adobe.com/create/color-wheel/)：Adobe出品的强大配色工具。
