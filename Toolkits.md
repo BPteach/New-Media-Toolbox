@@ -12,113 +12,111 @@
 
 ### 数据工具
 
-- [百度指数](http://link.zhihu.com/?target=http%3A//top.baidu.com/)
-- [5118](http://www.5118.com/)
-- [新榜](http://newrank.cn/)
-- [清博指数](http://www.gsdata.cn/)
-- [易赞](http://www.yeezan.com/web/index/index)
+1. [百度指数](http://link.zhihu.com/?target=http%3A//top.baidu.com/)：很好用的内容选题工具。
+2. [5118](http://www.5118.com/)：中国目前最好用的网站数据工具。
+3. [新榜](http://newrank.cn/)：专注公众号数据。
+4. [清博指数](http://www.gsdata.cn/)：专注公众号数据。
 
 ###  着陆页工具
 
-- [MAKA](http://www.maka.im/home/index.html)
-- [易企秀](http://www.eqxiu.com/)
-- [ih5](https://www.ih5.cn)
-- [Strikingly](https://www.strikingly.com/?locale=zh-CN)
+1. [MAKA](http://www.maka.im/home/index.html)：H5模版丰富，上手容易。
+2. [易企秀](http://www.eqxiu.com/)：同Maka差不多，但是设计感稍微差一些。
+3. [ih5](https://www.ih5.cn)：目前中国最强大的H5制作工具，上手具有一定难度。
+4. [Strikingly](https://www.strikingly.com/?locale=zh-CN)：硅谷的中国团队出品，目前中国最容易上手制作着陆页的工具。
 
 
 ### 设计工具
 
-- [创客贴](https://www.chuangkit.com/)
-- [瓦斯](http://canvas.qq.com/index)
-- [Canvas](https://canvas.cityu.edu.hk/login/ldap)
-- [Powerpoint](https://office.live.com/start/PowerPoint.aspx)
-- [Sketch](https://www.sketchapp.com/)
+1. [创客贴](https://www.chuangkit.com/)：国内目前在线设计工具的老大。
+2. [瓦斯](http://canvas.qq.com/index)：腾讯模仿Canvas做的产品，更适合制作信息图。
+3. [Canvas](https://canvas.cityu.edu.hk/login/ldap)：国外产品，创客贴的原身。
+4. [Powerpoint](https://office.live.com/start/PowerPoint.aspx)：我最喜欢的快速设计工具。
+5. [Sketch](https://www.sketchapp.com/)：仅限Mac，正在逐步替代PS成为主流的UI设计工具。
 
 ### 排版工具
 
-- [Markdown Here](http://markdown-here.com/)
-- [秀米](https://xiumi.us/#/)
-- [i排版](http://ipaiban.com/)
-- [135编辑器](https://www.135editor.com/)
+1. [Markdown Here](http://markdown-here.com/)：公众号最骇客的排版辅助工具。
+2. [秀米](https://xiumi.us/#/)：目前使用量最高的公众号排版工具。
+3. [i排版](http://ipaiban.com/)：同上，但是页面比较乱。
+4. [135编辑器](https://www.135editor.com/)：同上，但是页面比较乱。
 
 ### 配色工具
 
-*   [Kuler](https://color.adobe.com/create/color-wheel/)
-*   [ColourLover](http://www.colourlovers.com/)
-*   [配色表](http://tool.c7sky.com/webcolor/#character_7)
-*   [千图配色](http://www.58pic.com/peise/)
+1. [Kuler](https://color.adobe.com/create/color-wheel/)：Adobe出品的强大配色工具。
+2. [配色表](http://tool.c7sky.com/webcolor/#character_7)：国内网页设计常用的色彩搭配方案。
+3. [千图配色](http://www.58pic.com/peise/)：配色的小工具比较多
 
 
 ### 运营辅助工具
 
-- [新媒体管家](http://xmt.cn/)
-- [壹伴](https://yiban.io/)
-- [微小宝](http://www.wxb.com/)
-- [西瓜公众号助手](http://www.xiguaji.com/)
+1. [新媒体管家](http://xmt.cn/)
+2. [壹伴](https://yiban.io/)
+3. [微小宝](http://www.wxb.com/)
+4. [西瓜公众号助手](http://www.xiguaji.com/)
 
 ### 表单工具
 
-- [麦客](http://www.mikecrm.com/login.php?d=formManager.php)
-- [金数据](http://jinshuju.net)
+1. [麦客](http://www.mikecrm.com/login.php?d=formManager.php)：个人最喜欢的CRM工具。
+2. [金数据](http://jinshuju.net)：在某些数据管理上功能更强，但是CRM功能弱。
 
 
 ### 活动工具
 
-- [活动行](http://www.huodongxing.com/)
-- [孤鹿](http://www.grouplus.com/)
+1. [活动行](http://www.huodongxing.com/)：目前国内主流的活动发布工具。
+2. [孤鹿](http://www.grouplus.com/)：社群运营工具，也可以方便的发布活动，进行报名收款。
 
 ### 电商工具
 
-- [有赞](https://www.youzan.com/)
-- [小鹅通](https://www.xiaoe-tech.com/)
-- [千聊](http://www.qlchat.com/)
+1. [有赞](https://www.youzan.com/)：国内最强大的移动电商工具。
+2. [小鹅通](https://www.xiaoe-tech.com/)：主要用户课程电商产品。
+3. [千聊](http://www.qlchat.com/)：语音直播类课程的工具。
 
 ### 二维码工具
 
-- [草料二维码生成器](http://cli.im/)
-- [第九工厂](http://www.9thws.com/)
+1. [草料二维码生成器](http://cli.im/)：功能非常强大的二维码工具，活码、静态码一一俱全。
+2. [第九工厂](http://www.9thws.com/)：可以设计比较个性化的二维码。
 
 ### 短网址工具
 
-- [六度短网址](http://6du.in/)
-- [新浪微博短网址生成器](http://www.waqiang.com/index.php/url)
+1. [六度短网址](http://6du.in/)：带监测功能的短链接工具。
+2. [新浪微博短网址生成器](http://www.waqiang.com/index.php/url)：新浪出品，服务稳定。
 
 
 ### 图床工具
 
-- [极简图床](http://jiantuku.com/#/)
+1. [极简图床](http://jiantuku.com/#/)：直接拖拽生成图片外链。
 
 ## 二、素材篇
 
 ### 图标资源库
 
-*   [iconfont](http://www.iconfont.cn/)
-*   [TheNounProject](https://thenounproject.com/)
+1. [iconfont](http://www.iconfont.cn/)：阿里出品的图标库。
+2. [TheNounProject](https://thenounproject.com/)：国外最全的免费图标库，种类丰富。
 
 ### 图片资源库
 
-*   [Unslpash](https://unsplash.com/)
-*   [Gratisography](http://www.gratisography.com/)
-*   [Pond5](https://www.pond5.com/)
-*   [Stock XCHNG](http://cn.freeimages.com/)
+1. [Unslpash](https://unsplash.com/)：大量高清免费商用图片。
+2. [Gratisography](http://www.gratisography.com/)：高清风格化摄影图库。
+3. [Pond5](https://www.pond5.com/)：图库种类更多，但是部分收费。
+4. [Stock XCHNG](http://cn.freeimages.com/)：同上。
 
 ### 视频素材库
 
-*   [Mazwai](http://mazwai.com/#/videos)
-*   [Pexels](http://videos.pexels.com/)
-*   [Wedistill](http://wedistill.io/)
+1. [Mazwai](http://mazwai.com/#/videos)：这是我最喜欢的视频库了，主要集中在风景、建筑主题上，虽然没有严格的分类，但是每一段高清素材都是电影级别的质感。
+2. [Pexels](http://videos.pexels.com/)：Pexels 拥有大量的免版权的高清素材库（CC0协议｜不用署名也不用付费），按列别主要分为：动物、街道、山川、延时、模糊、食物、城市、饮料、天空等等。你可以把其中的视频放到官方网站、销售引导页以及任何的商业项目中。虽然东西都是免费，但是质量都是极高的。你可以通过邮件实时订阅他们的素材更新。
+3. [Wedistill](http://wedistill.io/)：技术服务公司Create The Bridge的子项目，每10天会上架10段视频，全是免费高清的广告素材。
+4. [Videovo](http://www.videvo.net/)：庞大的素材库，有超过3000的视频素材，除了高清视频素材还有动画素材，相对其他素材站比较好的一点是，你可以根据素材关键字和热门度进行检索。
+5. [Coverr](http://coverr.co/)：Covers 通常每周会上架7个新的视频，视频的分类会比Pexels稍微少一点，但是如果是初创的互联网企业，Tech哪个类别的素材要比Pexels好很多。
 
 ### 设计灵感库
 
-*   [Behance](https://www.behance.net/)
-*   [Dribbble](https://dribbble.com/)
-*   [Canva](https://www.canva.com/templates/presentations/)
+1. [Behance](https://www.behance.net/)：Behance是作品集平台，重在系统地展示，尤其是系列作品。
+2. [Dribbble](https://dribbble.com/)：dribbble则是一个让设计师发布正在创作中的作品的地方，需要会员邀请才能发布作品，相对Behance种类较少，但是风格更前卫。
 
 ### 配乐素材库
 
-*   [Musicbed](https://www.musicbed.com/)
-*   [Marmoset](https://www.marmosetmusic.com/)
-*   [Song Freedom](http://www.songfreedom.com/home/library)
-*   [Filmstro](https://www.filmstro.com/)
-*   [Free Music Archive](http://freemusicarchive.org/)
-*   [Audiosocket](https://www.audiosocket.com/)
+1. [Marmoset](https://www.marmosetmusic.com/)：最强大的配乐工具，它能根据你的视频配乐所要表达的情绪、能量、长度、风格、是否带人声、等要素，直接筛选后推送对应的配乐。
+2. [Musicbed](https://www.musicbed.com/)：纯粹的配乐素材库。
+3. [Song Freedom](http://www.songfreedom.com/home/library)：纯粹的配乐素材库。
+4. [Free Music Archive](http://freemusicarchive.org/)：纯粹的配乐素材库。
+5. [Audiosocket](https://www.audiosocket.com/)：纯粹的配乐素材库。
