@@ -8,5 +8,5 @@
 - [提问的智慧](https://github.com/BPteach/New-Media-Toolbox-Project/blob/master/How-To-Ask-Questions-The-Smart-Way.md)
 
 
-> 半撇[官网](http://www.bpteach.com/)/[微博](http://weibo.com/openmindclub)/[豆列](http://www.douban.com/people/bpteach/doulists/all)
+> 半撇[官网](http://www.bpteach.com/)/[微博](http://weibo.com/bpteach)/[豆列](http://www.douban.com/people/bpteach/doulists/all)
 
