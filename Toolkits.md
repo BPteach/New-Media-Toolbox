@@ -1,6 +1,6 @@
 # 新媒体工具箱
 
-> 本文档记录新媒体内容写作、营销、短视频、运营等必备工具，并于 [Github](https://github.com/BPteach/New-Media-Toolbox/blob/master/Toolkits.md) 开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交推荐工具。
+> 本文档为半撇私塾 [全栈新媒体骇客训练营](http://learn.bpteach.com/classroom/12/introduction) 课程推荐工具，并于 [Github](https://github.com/BPteach/New-Media-Toolbox/blob/master/Toolkits.md) 开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交推荐工具。
 
 素材库和工具库在产品挑选上，遵循如下：
 
