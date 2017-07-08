@@ -28,6 +28,7 @@
 ### 设计工具
 
 1. [创客贴](https://www.chuangkit.com/)：国内目前在线设计工具的老大。
+2. [Fortor](https://www.fotor.com.cn/)：全球1.9亿用户的在线快速平面设计平台。
 2. [瓦斯](http://canvas.qq.com/index)：腾讯模仿Canvas做的产品，更适合制作信息图。
 3. [Canvas](https://canvas.cityu.edu.hk/login/ldap)：国外产品，创客贴的原身。
 4. [Powerpoint](https://office.live.com/start/PowerPoint.aspx)：我最喜欢的快速设计工具。
