@@ -41,7 +41,7 @@
 3. [i排版](http://ipaiban.com/)：同上，但是页面比较乱。
 4. [135编辑器](https://www.135editor.com/)：同上，但是页面比较乱。
 
-## 视频工具
+### 视频工具
 
 1. [Spark](https://spark.adobe.com/)：Adobe出品的在线视频制作工具，需要翻墙。
 2. [VUE](http://vue.video/)：快速制作电影级的短视频。
@@ -127,3 +127,11 @@
 3. [Song Freedom](http://www.songfreedom.com/home/library)：纯粹的配乐素材库。
 4. [Free Music Archive](http://freemusicarchive.org/)：纯粹的配乐素材库。
 5. [Audiosocket](https://www.audiosocket.com/)：纯粹的配乐素材库。
+
+## 三、课程篇
+
+1.  [新媒体自习室](http://learn.bpteach.com/course/100?utm_source=zhihu.com&utm_medium=referral&utm_campaign=mkg101-bp&utm_term=new-media-toolkits&utm_content=textlink)：每一期都是干货，推荐许多骇客级别的新媒体运营的工具和使用方法。
+2. [全栈新媒体成长计划](http://learn.bpteach.com/course/258?utm_source=zhihu.com&utm_medium=referral&utm_campaign=mkg102-bp&utm_term=new-media-toolkits&utm_content=textlink)：全栈新媒体7天成长计划。系统建立新媒体营销的思维和工作流，从理解用户、流量监测、写作排版面面俱全，课程简练有趣，配套文件也非常详细。
+3. [跟两米青年学拍视频](http://link.zhihu.com/?target=https%3A//study.163.com/course/courseMain.htm%3FcourseId%3D1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
+4.  [从0到1做起微信公众号全教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1003728017.htm)：从0到1做起微信公众号全教程。分享公众号运营过程的一些小技能，精简有道，适合刚入门做微信公众号的新手。
+5. [iH5视频教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1280009.htm)：IH5是制作新媒体着陆页的最佳入门工作，可以想象的空间非常大，对于新手来说会稍微有一些门槛，但是要想做出交互更强的着陆页，非iH5不可。课程为官方出品，讲解流畅，技术细节覆盖全面。
