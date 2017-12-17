@@ -173,3 +173,10 @@
 3.  [跟两米青年学拍视频](http://link.zhihu.com/?target=https%3A//study.163.com/course/courseMain.htm%3FcourseId%3D1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
 4.  [从0到1做起微信公众号全教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1003728017.htm)：从0到1做起微信公众号全教程。分享公众号运营过程的一些小技能，精简有道，适合刚入门做微信公众号的新手。
 5.  [iH5视频教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1280009.htm)：IH5是制作新媒体着陆页的最佳入门工作，可以想象的空间非常大，对于新手来说会稍微有一些门槛，但是要想做出交互更强的着陆页，非iH5不可。课程为官方出品，讲解流畅，技术细节覆盖全面。
+
+
+
+CHANGELOG:
+
+- 20170720，增加2条社群工具
+- 20170718，更新5条推荐课程
