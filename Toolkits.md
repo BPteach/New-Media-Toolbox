@@ -8,7 +8,40 @@
 2. 每个类别工具按照推荐度进行排序。
 3. 每个类别工具的数量原则不超过5个。
 
-## 一、工具篇
+
+
+## 一、行业资讯
+
+### 互联网领域
+
+- **[虎嗅网](https://www.huxiu.com/)**：主打深度犀利的商业科技资讯，篇幅较长。
+- **[快公司](http://www.fastcompany.cn/)**：FastCompany 中文版，美国最具影响力的商业杂志之一。
+- **[36氪](http://36kr.com/)**：分享创业资讯、科技新闻、并提供投融资等创业服务，篇幅较短。
+- **[钛媒体](http://www.tmtpost.com/)**：集信息交流融合、IT技术信息、新媒体于一身的媒体平台。
+- **[爱范儿](http://www.ifanr.com/)**：报道未来，服务新生活引领者。
+- **[极客公园](http://www.geekpark.net/)**：聚焦互联网领域，跟踪最新的科技新闻动态，关注极具创新精神的科技产品。
+
+### 营销资讯
+
+- [**SocialBeta**](http://socialbeta.com/)：分享数字营销领域的动态、案例、趋势与经验。
+- [**数英**](http://www.damndigital.com)：分享互动和数字营销领域的案例和技术。
+- [**顶尖文案**](http://www.topys.cn)：全球顶尖营销创意分享平台。
+- [**梅花网**](https://www.meihua.info/)：聚焦为企业营销者服务，集中许多优质的干货文章和情报信息。
+- [**广告门**](http://www.adquan.com/)：广告门户网站，为广告和营销从业者提供相关案例与资讯。
+
+
+### 数据报告
+
+- [艾瑞研究](http://www.iresearch.cn/)：互联网行业报告
+- [易观数据](https://www.analysys.cn/analysis/data/)：互联网行业报告
+- [199IT](http://www.199it.com/)：丰富的互联网行业数据和报告。
+- [腾讯大数据](http://data.qq.com/)：腾讯云数据分析出来的行业报告
+- [友盟+数据报告](http://mobile.umeng.com/reports)：移动应用的数据报告。
+- [德勤](https://www2.deloitte.com)：审计, 企业管理咨询, 财务咨询, 风险管理, 税务服务及行业洞察
+
+
+
+## 二、行业工具
 
 ### 数据指数
 
@@ -134,7 +167,7 @@
 
 1. [极简图床](http://jiantuku.com/#/)：直接拖拽生成图片外链。
 
-## 二、素材篇
+## 三、设计素材
 
 ### 图标资源库
 
@@ -169,14 +202,23 @@
 4. [Free Music Archive](http://freemusicarchive.org/)：纯粹的配乐素材库。
 5. [Audiosocket](https://www.audiosocket.com/)：纯粹的配乐素材库。
 
-## 三、课程篇
+## 四、求职平台
 
-1.  [新媒体自习室](http://learn.bpteach.com/course/100?utm_source=github.com&utm_medium=referral&utm_campaign=mkg101-bp&utm_term=new-media-toolkits&utm_content=textlink)：每一期都是干货，推荐许多骇客级别的新媒体运营的工具和使用方法。
-2.  [全栈新媒体成长计划](http://learn.bpteach.com/course/258?utm_source=github.com&utm_medium=referral&utm_campaign=mkg102-bp&utm_term=new-media-toolkits&utm_content=textlink)：全栈新媒体7天成长计划。系统建立新媒体营销的思维和工作流，从理解用户、流量监测、写作排版面面俱全，课程简练有趣，配套文件也非常详细。
-3.  [跟两米青年学拍视频](http://link.zhihu.com/?target=https%3A//study.163.com/course/courseMain.htm%3FcourseId%3D1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
-4.  [从0到1做起微信公众号全教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1003728017.htm)：从0到1做起微信公众号全教程。分享公众号运营过程的一些小技能，精简有道，适合刚入门做微信公众号的新手。
-5.  [iH5视频教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1280009.htm)：IH5是制作新媒体着陆页的最佳入门工作，可以想象的空间非常大，对于新手来说会稍微有一些门槛，但是要想做出交互更强的着陆页，非iH5不可。课程为官方出品，讲解流畅，技术细节覆盖全面。
+- [**智联招聘**](https://www.zhaopin.com/)：全国性的招聘平台，岗位数量多。
+- [**拉勾网**](https://link.zhihu.com/?target=https%3A//www.lagou.com/)：专注互联网岗位的招聘平台。
+- [**Boss直聘**](https://link.zhihu.com/?target=http%3A//www.zhipin.com/)：是目前最大的“直聊”招聘平台.
+- [**内推网**](https://link.zhihu.com/?target=http%3A//www.neitui.me/)：互联网招聘内部推荐直招平台。
+- [**100offer**](https://link.zhihu.com/?target=https%3A//cn.100offer.com/)：中高端求职平台，通过“线上猎头”模式匹配优质岗位。
+- [**Nextoffer**](https://www.nextoffer.com/)：精准的人才竞价平台，主打高质量人才招聘。
 
+
+## 五、课程推荐
+
+1. [新媒体自习室](http://learn.bpteach.com/course/100?utm_source=github.com&utm_medium=referral&utm_campaign=mkg101-bp&utm_term=new-media-toolkits&utm_content=textlink)：每一期都是干货，推荐许多骇客级别的新媒体运营的工具和使用方法。
+2. [全栈新媒体成长计划](http://learn.bpteach.com/course/258?utm_source=github.com&utm_medium=referral&utm_campaign=mkg102-bp&utm_term=new-media-toolkits&utm_content=textlink)：全栈新媒体7天成长计划。系统建立新媒体营销的思维和工作流，从理解用户、流量监测、写作排版面面俱全，课程简练有趣，配套文件也非常详细。
+3. [跟两米青年学拍视频](http://link.zhihu.com/?target=https%3A//study.163.com/course/courseMain.htm%3FcourseId%3D1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
+4. [从0到1做起微信公众号全教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1003728017.htm)：从0到1做起微信公众号全教程。分享公众号运营过程的一些小技能，精简有道，适合刚入门做微信公众号的新手。
+5. [iH5视频教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1280009.htm)：IH5是制作新媒体着陆页的最佳入门工作，可以想象的空间非常大，对于新手来说会稍微有一些门槛，但是要想做出交互更强的着陆页，非iH5不可。课程为官方出品，讲解流畅，技术细节覆盖全面。
 
 
 CHANGELOG:
